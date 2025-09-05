@@ -42,6 +42,7 @@ No modules.
 | Name | Version |
 |------|---------|
 | <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | ~> 4.0 |
+| <a name="provider_random"></a> [random](#provider\_random) | ~> 3.5 |
 ### Requirements
 
 | Name | Version |
@@ -54,5 +55,6 @@ No modules.
 | Name | Type |
 |------|------|
 | [azurerm_resource_group.rg](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group) | resource |
+| [random_string.name](https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/string) | resource |
 
 <!-- END_TF_DOCS -->
